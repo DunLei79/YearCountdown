@@ -24,4 +24,3 @@ function updateCoutdownTime(){
 }
 
 setInterval(updateCoutdownTime,1000);
-// const test = "test"
